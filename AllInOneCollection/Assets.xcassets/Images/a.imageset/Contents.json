@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "portrait-young-school-student.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

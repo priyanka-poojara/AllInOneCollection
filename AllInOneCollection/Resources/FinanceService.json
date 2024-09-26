@@ -1,0 +1,87 @@
+{
+  "children_activities": [
+    {
+      "type_image": "a",
+      "type_title": "Outdoor Activities",
+      "listData": [
+        {
+          "image": "https://tinyurl.com/9vvsfdv4",
+          "title": "Playground Fun",
+          "subtitle": "Kids can enjoy swings, slides, and climbing structures for a fun-filled day at the playground.Kids can enjoy swings, slides, and climbing structures for a fun-filled day at the playground."
+        },
+        {
+          "image": "https://tinyurl.com/9vvsfdv4",
+          "title": "Bicycle Ride",
+          "subtitle": "Take your child on an exciting bicycle adventure, perfect for exercise and outdoor exploration."
+        },
+        {
+          "image": "https://tinyurl.com/9vvsfdv4",
+          "title": "Nature Walks",
+          "subtitle": "Explore nature trails and parks while teaching your child about plants and animals."
+        },
+        {
+          "image": "https://tinyurl.com/9vvsfdv4",
+          "title": "Picnic Time",
+          "subtitle": "Pack some snacks and enjoy a family picnic in the park for a relaxing afternoon outdoors."
+        },
+        {
+          "image": "https://tinyurl.com/9vvsfdv4",
+          "title": "Water Play",
+          "subtitle": "Kids love splashing around! Set up a water table or visit a splash pad for some fun water activities."
+        }
+      ]
+    },
+    {
+      "type_image": "b",
+      "type_title": "Indoor Activities",
+      "listData": [
+        {
+          "image": "https://tinyurl.com/yffh22aj",
+          "title": "Arts & Crafts",
+          "subtitle": "Let your child's creativity shine with painting, drawing, and crafting fun projects at home."
+        },
+        {
+          "image": "https://tinyurl.com/yffh22aj",
+          "title": "Story Time",
+          "subtitle": "Read exciting stories to your kids or encourage them to create their own stories."
+        },
+        {
+          "image": "https://tinyurl.com/yffh22aj",
+          "title": "Building Blocks",
+          "subtitle": "Encourage problem-solving and creativity with a variety of building blocks like LEGO or wooden sets."
+        },
+        {
+          "image": "https://tinyurl.com/yffh22aj",
+          "title": "Puzzle Play",
+          "subtitle": "Engage your child with fun puzzles that improve their thinking and concentration skills."
+        }
+      ]
+    },
+    {
+      "type_image": "c",
+      "type_title": "Learning Activities",
+      "listData": [
+        {
+          "image": "https://tinyurl.com/48zkcxu9",
+          "title": "Science Experiments",
+          "subtitle": "Make learning fun by doing easy science experiments at home, like volcanoes or slime."
+        },
+        {
+          "image": "https://tinyurl.com/48zkcxu9",
+          "title": "Math Games",
+          "subtitle": "Play math-based games that teach counting, addition, and subtraction in an enjoyable way."
+        },
+        {
+          "image": "https://tinyurl.com/48zkcxu9",
+          "title": "Reading Practice",
+          "subtitle": "Help your child improve their reading skills with engaging books and phonics exercises."
+        },
+        {
+          "image": "https://tinyurl.com/48zkcxu9",
+          "title": "Cooking Together",
+          "subtitle": "Teach your kids basic cooking skills by preparing simple dishes together in the kitchen."
+        }
+      ]
+    }
+  ]
+}
